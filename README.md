@@ -29,5 +29,5 @@ passswor : admin
 
 
 
-This website is created for me to learn PHP code by creating a website
+This website is created by me to learn PHP code by creating a website
 
