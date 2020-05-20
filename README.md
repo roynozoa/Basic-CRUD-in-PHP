@@ -20,10 +20,10 @@ import jfood.sql in PHPMyAdmin database to connect with PHP.
 For login options, use :
 
 
-username : admin 
+username  : admin 
 
 
-passswor : admin
+passsword : admin
 
 
 
